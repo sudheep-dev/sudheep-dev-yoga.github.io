@@ -36,7 +36,7 @@ body {
 }
 
 a {
-    color: #1f1f1f;
+    color: #6195ED;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -58,7 +58,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: normal;
-    color: #111111;
+    color: #6195ED;
     margin: 0
 }
 
